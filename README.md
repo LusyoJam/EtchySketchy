@@ -53,3 +53,7 @@ Hover over the grid and let the colors flow!
    ```bash
    git clone https://github.com/yourusername/etchysketchy.git
    cd etchysketchy
+   
+2. Open index.html in your browser
+
+3. Click Start, input grid size, then draw with your mouse
