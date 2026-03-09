@@ -37,7 +37,7 @@ body {
     flex-wrap: wrap;
     height: clamp(100px, 500px, 1000px);
     width: clamp(100px, 500px, 1000px);
-    cursor: pointer;
+    cursor: crosshair;
     background-color: white;
     border: 2px solid black;
 }
